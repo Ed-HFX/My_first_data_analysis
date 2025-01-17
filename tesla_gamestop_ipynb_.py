@@ -4,7 +4,7 @@
 # Python Project for Data Science
 # Tesla and GameStop Stock data analysis
 
-
+# Please install the following Python 3 packages before running this code
 #!pip install pandas
 #!pip install requests
 #!pip install bs4
